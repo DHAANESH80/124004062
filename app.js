@@ -36,3 +36,5 @@ app.get('/numbers', async (req, res) => {
 app.listen(port, () => {
   console.log(`Number Management Service is running on port ${port}`);
 });
+
+
